@@ -26,8 +26,8 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-400">
-              <li>Email: support@simplestore.com</li>
-              <li>Phone: +1 (555) 123-4567</li>
+              <li>Email: asetabraham9@gmail.com</li>
+              <li>Phone: +251 964 063 992</li>
             </ul>
           </div>
         </div>
